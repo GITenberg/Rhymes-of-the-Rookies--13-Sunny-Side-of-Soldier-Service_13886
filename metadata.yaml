@@ -1,0 +1,24 @@
+_repo: Rhymes-of-the-Rookies--13-Sunny-Side-of-Soldier-Service_13886
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Christian, W. E.
+    gutenberg_agent_id: '5269'
+    url: http://www.gutenberg.org/2009/agents/5269
+description: ''
+gutenberg_issued: '2004-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13886'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Poetry'
+- !lcc 'PS'
+title: "Rhymes of the Rookies\r\nSunny Side of Soldier Service"
+url: http://www.gutenberg.org/ebooks/13886
