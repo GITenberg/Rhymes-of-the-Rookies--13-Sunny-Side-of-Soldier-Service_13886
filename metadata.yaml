@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '5269'
     url: http://www.gutenberg.org/2009/agents/5269
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13886#Rhymes-of-the-Rookies--13-Sunny-Side-of-Soldier-Service
 gutenberg_issued: '2004-10-27'
 gutenberg_type: Text
 identifiers:
